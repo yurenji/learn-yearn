@@ -1,4 +1,4 @@
-[code comments (chinese)](https://github.com/yurenji/yearn-protocol/blob/comment/contracts/strategies/StrategyUSDT3pool.sol)
+[code comments](https://github.com/yurenji/yearn-protocol/blob/comment/contracts/strategies/StrategyUSDT3pool.sol)
 
 deposit 
 ![image](https://user-images.githubusercontent.com/5565266/115813548-f1a80e00-a425-11eb-82d5-3ca24263640e.png)
